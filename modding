@@ -1,0 +1,136 @@
+Xbox Workshop here how it works The Xbox Workshop is a central hub of console players-created content and tools to publish Organize and download. That content into your Xbox games. Different games  until. The Workshop  in different ways some games. Like fortnite  allow you to create and upload to the workshop  and sumlt new items  such as code mods assets maps themes props likes wepeans tools badges  boots  and more stuff to so enjoy my Xbox Workshop items collection subscription and press subscribemake it green Create, discover, and download content for your game
+Start browsing below to find player-created content for your games. Interested in creating content? Click here to learn more.
+Search for a Workshop
+Submitbox Workshop here how it works The Xbox Workshop is a central hub of console players-created content and tools to publish Organize and download. That content into your Xbox games. Different games  until. The Workshop  in different ways some games. Like fortnite  allow you to create and upload to the workshop  and sumlt new items  such as code mods assets maps themes props likes wepeans tools badges  boots  and more stuff to so enjoy my Xbox Workshop items collection subscription and press subscribe t
+Browse All Workshops
+Sort Workshops
+
+Most Recent
+Alphabetical
+Recently Visited
+Upload Labs
+3 items
+ FPV Skyline Playtest
+1 items
+ Lonely Mountains: Snow Riders
+2 items
+ Worldwide Rush
+5 items
+ 
+Maestro Level Editor
+1 items
+ Speedway Club Manager 25
+4 items
+ Mech Havoc
+24 items
+ The Shadowed Rune
+4 items
+ 
+< 1 2 3 4 5 6 ... 361 >Showing 1-8 of 2,888 results
+Join the Steam Workshop Community Group
+For the latest news and discussions
+About - The Workshop
+Ever dreamed of seeing your brilliant ideas come to life in games played by millions of people? Now you can, with the Steam Workshop. Here you can submit, find, rate, and download new content and modifications for your favorite Steam games.
+Different games may use the Steam Workshop in different ways, but everything here is created by members of the Steam community, just like you.
+
+
+Subscribe to RSS feed
+LATEST WORKSHOP NEWS
+Your Subscriptions and Workshop Collections
+December 18, 2023 - TomB
+Based on your feedback from the recent Steam Workshop changes outlined here, we've added some additional features around Workshop subscriptions: you can now easily create, save, and load different subscription lists using Workshop Collections. This will make it easier to create "presets" or "mod lists" that you can swap between for whatever reason.
+
+In the Steam Client (beta), you can access your Workshop Collections on your game's Properties > Workshop page under Advanced Options. From here you can quickly save your subscriptions list to a collection, or update your subscriptions list from a collection. The load order for your items will match the order of subscriptions within the collection.
+
+We've also made it easier to share the mods you are using with your friends - Workshop Collections can now be shared via a link from within the Steam Client. (note that you'll need to save your subscriptions to a collection before you can send a link to a friend).
+
+
+
+On the Steam Community, the "Save to Collection" button is accessible on your subscriptions page for a game. On a collection's web page, the "Subscribe to all" button will now give you a choice of adding to or overwriting your current subscription list. There’s also an option to save a collection’s contents to another collection.
+
+There have also been some small updates to the Collection editor itself to make managing items a bit easier.
+
+Added the ability to sort items by Time Created or Time Updated
+Added the ability to sort items in ascending or descending order
+Added the ability to add or remove all items from the selected section (e.g. item's you've published, favorited, or subscribed to)
+Added ability to quickly remove all items or linked collections
+ See all 3379 comments
+New Quality of Life Workshop Features
+December 12, 2023 - TomB (Valve)
+We've recently added some features to the Workshop that should be pretty useful for both new and power users alike.
+
+The new Steam Client beta has various improvements around Workshop, including displaying which item is being downloaded in the Downloads page, and an improved interface for dealing with your Workshop item subscriptions (accessible from your game's Properties dialog). The subscription list now contains additional information, such as when the item was last updated, when you subscribed to it, and any item dependencies. You can also filter your list by name or by tag.
+
+
+For more advanced use cases, you can disable items from being loaded by your game. And you can now change the local load order for your items. Also, if Workshop creators have set their items as depending on other items, you can automatically set the load order based on these dependencies. Missing dependencies will also be displayed, to make it easier to see why some mods are not working. You can opt into the Steam Client beta to try out these changes.
+
+
+On the web side of things, we've added Saved Search Queries. Basically, if you often find yourself searching/sorting/filtering to find the same kind of items in a game's Workshop, you can now save those search query parameters. Then you can re-run your search at any time by selecting that saved search query from your game's Workshop home page.
+
+We've also added some more browsing options to the main Workshop Home page. You can now filter to games that have Workshops based on whether you recently visited them, and we've brought back the ability to view Workshops for games you own or have recent playtime in.
+
+Plus a few other web changes:
+Added the ability to subscribe to an item and all the items it depends on
+Added previous and next buttons to the image viewer
+Adding an item to a collection no longer reloads the web page
+Allow unlisted and friends-only items to be added to a collection
+
+Let us know your thoughts in the Steam Client Beta discussions.
+ See all 1320 comments
+Update: Steam Workshop Search Improvements
+July 19, 2023 - Alden
+
+
+Today we've released a couple of improvements to the way that search works in the
+
+With this update, when you search within a game's Workshop, the results will now handle partial string matches and will organize the results to prioritize the most relevant results, taking into account popularity and user ratings.
+
+You can check out the improvements to search by exploring your favorite game's 
+ See all 2966 comments
+Workshop Items Now Support Sketchfab Interactive Previews
+March 25, 2016 - Alden
+When preparing the Workshop page for your mod or item, you now have the option to include a 3D Sketchfab preview of your item along with your videos and screenshots.
+
+Here’s an example from johnskyrim’s Doomhammer, a Skyrim weapon mod:
+
+Sketchfab Model: Could not contact Sketchfab 
+unknown
+
+This can be used to provide an interactive 3D presentation of your model, scene, or item that users can zoom, pan, or rotate around to get a better view of your submission.
+
+To include a Sketchfab preview, you’ll need to create a free account on Sketchfab’s website (http://sketchfab.com/) and upload your model there similar to how you go about posting a video to YouTube. Once your item has been posted to Sketchfab and you have a page on their site, you may enter that URL in the new field provided in the Steam Workshop when editing the screenshots and videos for your item.
+
+The Sketchfab preview can also be inserted into Steam Community Discussions, Announcements, and Greenlight submissions.
+
+Here are a few more examples:
+City Skylines:
+
+Sketchfab Model: Could not contact Sketchfab 
+unknown
+
+
+Sketchfab Model: Could not contact Sketchfab 
+unknown
+
+
+XCOM 2
+
+Sketchfab Model: Could not contact Sketchfab 
+unknown
+
+ See all 14091 comments
+Removing Payment Feature From Skyrim Workshop
+April 27, 2015 - Alden
+We're going to remove the payment feature from the Skyrim workshop. For anyone who spent money on a mod, we'll be refunding you the complete amount. We talked to the team at Bethesda and they agree.
+
+We've done this because it's clear we didn't understand exactly what we were doing. We've been shipping many features over the years aimed at allowing community creators to receive a share of the rewards, and in the past, they've been received well. It's obvious now that this case is different.
+
+To help you understand why we thought this was a good idea, our main goals were to allow mod makers the opportunity to work on their mods full time if they wanted to, and to encourage developers to provide better support to their mod communities. We thought this would result in better mods for everyone, both free & paid. We wanted more great mods becoming great products, like Dota, Counter-strike, DayZ, and Killing Floor, and we wanted that to happen organically for any mod maker who wanted to take a shot at it.
+
+But we underestimated the differences between our previously successful revenue sharing models, and the addition of paid mods to Skyrim's workshop. We understand our own game's communities pretty well, but stepping into an established, years old modding community in Skyrim was probably not the right place to start iterating. We think this made us miss the mark pretty badly, even though we believe there's a useful feature somewhere here.
+
+Now that you've backed a dump truck of feedback onto our inboxes, we'll be chewing through that, but if you have any further thoughts let us know.
+ See all 12677 comments
+View All Workshop NewsWorkshop Home
+About Workshop
+Xbox Workshop Platfrom With Green Xbox Logo With Green Graph Paper  tooXbox Workshop implemention with Green xbox logo on top of it With Green graph paper Creating Workshop items Creating an item uploading an item editing Workshop Items listing Workshop items upload function downloading Search For Items Search for results Xbox item ul WML Beta Xbox.ID Subscribe Updating items Update vs upload  Xbox Workshop APl integration with with empty Workshop files Folder Xbox Games
